@@ -23,6 +23,8 @@ Marketing and commercial growth leader. I scale premium brands across healthcare
 
 **[campaign-brief-generator](https://github.com/maren-rosen/campaign-brief-generator)** — Python + Claude API tool that generates complete, routable campaign briefs from five strategic inputs. Designed with a deliberate guardrail: the prompt forbids invented performance benchmarks and marks every metric [TO VALIDATE], because knowing where AI fails is as important as knowing what it can do.
 
+**[customer-scoring-engine](https://github.com/maren-rosen/customer-scoring-engine)** — codified version of the Star Ranking customer segmentation model I built at Tides Medical (top 11% of customers = 76% of net sales). Scores raw transaction data into 1-5 star tiers and generates a lifecycle marketing strategy per tier. On public data, it independently reproduced the same strategic conclusion my manual analysis reached: the 4-to-5-star upgrade path is the biggest revenue lever.
+
 Coming next: a VIP briefing generator and a partnership prospect scorer, each rebuilt from workflows I've owned at the executive level.
 
 ## Connect
