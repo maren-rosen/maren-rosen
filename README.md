@@ -21,7 +21,9 @@ Marketing and commercial growth leader. I scale premium brands across healthcare
 
 **[voice-of-customer-ai-analyzer](https://github.com/maren-rosen/voice-of-customer-ai-analyzer)** — Python + Claude API tool that turns customer review data into sentiment analysis and marketing recommendations. Built against an apparel dataset so I could judge the AI's output with category expertise.
 
-Coming next: a campaign brief generator, a VIP briefing generator, and a partnership prospect scorer, each rebuilt from workflows I've owned at the executive level.
+**[campaign-brief-generator](https://github.com/maren-rosen/campaign-brief-generator)** — Python + Claude API tool that generates complete, routable campaign briefs from five strategic inputs. Designed with a deliberate guardrail: the prompt forbids invented performance benchmarks and marks every metric [TO VALIDATE], because knowing where AI fails is as important as knowing what it can do.
+
+Coming next: a VIP briefing generator and a partnership prospect scorer, each rebuilt from workflows I've owned at the executive level.
 
 ## Connect
 
