@@ -12,7 +12,7 @@ Marketing and commercial growth leader. I scale premium brands across healthcare
 
 - Designed the CX architecture at prior employers spanning the B2B sales motion, customer and patient journey, marketing automation, and service; formally mapped the journey from awareness through retention
 - Built the Star Ranking segmentation model (weighted AOV, purchase frequency, and quarterly customer value) and coded the tiers into the CRM so human agents and automated journeys treated each tier accordingly; it drove targeted email and win-back campaigns and helped cut the purchase cycle from 120+ days to under 30
-- Owned the product marketing and CX side of Stuller's Salesforce implementation on top of Oracle, including cleaning millions of SKUs and building the customer hierarchies that resolved 40,000+ retail doors into actionable accounts
+- Owned the product marketing and CX side of prior employer's Salesforce implementation on top of Oracle, including cleaning millions of SKUs and building the customer hierarchies that resolved 40,000+ retail doors into actionable accounts
 - Ran lifecycle email and marketing automation across Mailchimp, Salesforce Marketing Cloud, and HubSpot, with segmented seasonal campaigns, triggers, and A/B testing
 
 ## Track record
